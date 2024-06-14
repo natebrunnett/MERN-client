@@ -1,4 +1,4 @@
-# Introudction
+# Introduction
 If you follow the below advice you should be able to create a MERN client from scratch as shown in the repo.
 Otherwise, you can clone the repo directly and install the nodemodules.
 
