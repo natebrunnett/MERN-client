@@ -6,7 +6,7 @@ Hi, if you already have NPM installed, you can simply clone this repo and instal
     $ cd MERN-client && npm i
     $ npm start
 
-However, to modify and make changes, it's best to learn VSCode, Gitbash and Node Packet Manager.
+However, to modify and make changes, it's best to learn VSCode, Gitbash and Node Packet Manager.  Which are all ultimately easy to use, in fact you may not even need VSCode at all, if you know how to use Nano.
 
 # MERN-client
 
