@@ -2,10 +2,10 @@
 If you follow the below advice you should be able to create a MERN client from scratch as shown in the repo.
 Otherwise, you can clone the repo directly and install the nodemodules.
 
-    `cd into a mud folder`
-    `$ git clone <link>`
-    `$ cd MERN-client && npm i`
-    `$ npm start`
+    cd into a mud folder
+    $ git clone <link>
+    $ cd MERN-client && npm i
+    $ npm start
 
 # MERN-client
 
