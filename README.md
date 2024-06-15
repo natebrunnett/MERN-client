@@ -23,7 +23,7 @@ to get started with a MERN developer's work flow from the client side.
       1.3) Download and run the .msi
         1.01) Click next and install
         1.02) Note - Chocolatey can also be installed via the .msi (optional)
-            1.001) Chocolatey is an installer for windows that is useful for other programming languages
+            1.001) Chocolatey is an installer for Windows that is useful for other programming languages
       1.4) Restart your apps
     3) Gitbash installed
       1.1) download => https://www.git-scm.com/downloads 
