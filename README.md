@@ -34,14 +34,16 @@ to get started with a MERN developer's work flow.
         1.05) Relaunch VSCode to make sure it is embedded in the editor
     4) Knowledge of Gitbash commands
 
-# Generating the client
+# Tutorial : Generating the client
     1) VSCode => Open Folder
       1.1) cd into a mud folder (I like to have a mud folder)
       1.2) Make a new folder, Let's call it `React_Project_1`
 
-    3) Cmd + J to open a terminal
+    2) Cmd + J to open a terminal
       1.1) Open a Git Bash term by clicking the down arrow located next to the plus
        1.01) `$ cd React_Project_1`
        2.01) `$ npx create-react-app client`
        3.01) `$ cd client && npm start`
          1.001) http://localhost:3000 in the browser should navigate to your running client
+    
+    3) That is all for now. To set up the server proceed to the MERN--from Scratch repo. :) 
