@@ -6,7 +6,7 @@ Hi, if you already have NPM installed, you can simply clone this repo and instal
     $ cd MERN-client && npm i
     $ npm start
 
-However, to modify and make changes, it's best to learn VSCode, Gitbash and Node Packet Manager.  Which are all ultimately easy to use, in fact you may not even need VSCode at all, if you know how to use Nano.
+If the npm start command works you can get started with web development. However, to modify and make greater changes, it's best to learn VSCode, Gitbash and Node Packet Manager.  Which are all ultimately easy to use, in fact you may not even need VSCode at all, if you know how to use Nano.
 
 # MERN-client
 
