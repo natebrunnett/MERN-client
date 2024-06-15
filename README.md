@@ -11,7 +11,7 @@ If the npm start command works you can get started with web development. However
 # MERN-client
 
 This tutorial is intended for a Window's User to install all necessary software
-to get started with a MERN developer's work flow.
+to get started with a MERN developer's work flow from the client side.
 
 # Prerequisites
     1) Visual Studio Code installed
