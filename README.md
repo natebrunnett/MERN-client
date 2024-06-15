@@ -46,4 +46,4 @@ to get started with a MERN developer's work flow.
        3.01) `$ cd client && npm start`
          1.001) http://localhost:3000 in the browser should navigate to your running client
     
-    3) That is all for now. To set up the server proceed to the MERN--from Scratch repo. :) 
+    3) That is all for now. To set up the server proceed to the MERN--from Scratch repo. 😉 
